@@ -28,9 +28,11 @@ Part II's appendix writes up three mechanisms in agentic-patterns-catalog form, 
 
 ## Also published at
 
-<!-- Add links once live -->
-- Medium: (coming soon)
-- dev.to: (coming soon)
+| | | |
+|---|---|---|
+| **Part I** | [dev.to](https://dev.to/sashua/engineering-reliability-into-ai-agent-code-generation-546d) | [Medium](https://oleksandrtranchenko.medium.com/engineering-reliability-into-ai-agent-code-generation-ba177b3e30a8) |
+| **Part II** | [dev.to](https://dev.to/sashua/engineering-reliability-into-ai-agent-code-generation-part-ii-1d0d) | [Medium](https://oleksandrtranchenko.medium.com/engineering-reliability-into-ai-agent-code-generation-36d8060716ca) |
+| **Part III** | [dev.to](https://dev.to/sashua/engineering-reliability-into-ai-agent-code-generation-part-iii-jdg) | [Medium](https://oleksandrtranchenko.medium.com/engineering-reliability-into-ai-agent-code-generation-989d9a4372ba) |
 
 ## Author
 
